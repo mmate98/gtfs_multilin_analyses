@@ -1,0 +1,11 @@
+*.pkl
+*.txt
+*.json
+*.zip
+*.npz
+*.npy
+*.geojson
+*.7z
+*.tar.gz
+__pycache__/
+*.ipynb_checkpoints/
